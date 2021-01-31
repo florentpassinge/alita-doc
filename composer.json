@@ -4,7 +4,7 @@
     "description": "Alita - Doc : Doc is a micro service which allows you to save all the modifications made ",
     "license": "MIT",
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": false,
     "require": {
         "php": ">=7.4"
     },
